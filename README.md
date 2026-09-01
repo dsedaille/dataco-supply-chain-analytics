@@ -106,9 +106,6 @@ Only 32.96% of orders were marked COMPLETE. PENDING_PAYMENT represented 22.07% o
 
 ![Top 10 Product Categories by Total Profit](visuals/top_10_product_categories_by_total_profit.png)
 
-### Discount Rate vs. Profit Margin
-
-![Discount Rate vs. Profit Margin](visuals/discount_rate_vs_profit_margin_by_category.png)
 
 ### Operational Priority by Order Status
 
