@@ -25,7 +25,8 @@ This project answers the following questions:
 - Matplotlib
 - Google Colab / Jupyter Notebook
 - GitHub
-- SQL, planned
+- SQL
+- SQLite
 - Power BI or Tableau, planned
 
 ## Dataset
@@ -106,7 +107,20 @@ Only 32.96% of orders were marked COMPLETE. PENDING_PAYMENT represented 22.07% o
 
 ![Top 10 Product Categories by Total Profit](visuals/top_10_product_categories_by_total_profit.png)
 
+### Average Profit Margin by Product Category
+
+![Average Profit Margin by Product Category](visuals/top_10_product_categories_by_avg_profit_margin.png)
 
 ### Operational Priority by Order Status
 
 ![Operational Priority by Order Status](visuals/operational_priority_by_order_status.png)
+
+## Project Files
+
+- `notebooks/01_data_cleaning_and_business_analysis.ipynb`: Main Python notebook for data cleaning, KPI creation, business analysis, and visualization.
+- `notebooks/02_sql_business_analysis.ipynb`: SQL-focused notebook using SQLite to recreate key KPI summaries from the DataCo Supply Chain analysis.
+- `visuals/`: Exported project charts.
+- `data/`: Placeholder folders for raw and processed datasets.
+- `sql/`: Planned reusable SQL query scripts.
+- `dashboard/`: Planned BI dashboard files and screenshots.
+- `reports/`: Planned executive summary and recommendations.
