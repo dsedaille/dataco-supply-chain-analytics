@@ -31,9 +31,6 @@ This folder contains exported charts and visualizations used in the README, repo
 - `high_margin_categories_order_volume_vs_margin.png`  
   Compares order volume and profit margin for high-margin categories.
 
-- `discount_rate_vs_profit_margin_by_category.png`  
-  Shows the relationship between average discount rate and average profit margin.
-
 - `order_count_by_order_status.png`  
   Shows the number of orders by order status.
 
