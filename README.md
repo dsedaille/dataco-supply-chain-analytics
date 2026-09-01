@@ -119,4 +119,4 @@ Only 32.96% of orders were marked COMPLETE. PENDING_PAYMENT represented 22.07% o
 - `data/`: Placeholder folders for raw and processed datasets.
 - `sql/`: Reusable SQL scripts for KPI summaries, delivery performance, product profitability, and operations analysis.
 - `dashboard/`: Planned BI dashboard files and screenshots.
-- `reports/`: Planned executive summary and recommendations.
+- `reports/executive_summary.md`: Business-facing summary of the project findings, recommendations, and conclusions.
