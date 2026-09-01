@@ -117,6 +117,6 @@ Only 32.96% of orders were marked COMPLETE. PENDING_PAYMENT represented 22.07% o
 - `notebooks/02_sql_business_analysis.ipynb`: SQL-focused notebook using SQLite to recreate key KPI summaries from the DataCo Supply Chain analysis.
 - `visuals/`: Exported project charts.
 - `data/`: Placeholder folders for raw and processed datasets.
-- `sql/`: Planned reusable SQL query scripts.
+- `sql/`: Reusable SQL scripts for KPI summaries, delivery performance, product profitability, and operations analysis.
 - `dashboard/`: Planned BI dashboard files and screenshots.
 - `reports/`: Planned executive summary and recommendations.
