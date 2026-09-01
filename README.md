@@ -84,11 +84,7 @@ Fishing was the top category by both sales and profit, generating approximately 
 
 Some of the highest-margin categories, such as Golf Bags & Carts and Toys, had lower order volume than the top revenue categories. This shows the importance of comparing sales, profit, margin, and volume together.
 
-### 7. Discounting is moderately negatively related to profit margin
-
-The correlation between average discount rate and average profit margin was -0.50, suggesting that higher discounting is associated with weaker profitability across product categories.
-
-### 8. Order status management is an operational priority
+### 7. Order status management is an operational priority
 
 Only 32.96% of orders were marked COMPLETE. PENDING_PAYMENT represented 22.07% of all orders and approximately $8.1 million in sales, making it an important operational workflow to monitor.
 
