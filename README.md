@@ -27,7 +27,7 @@ This project answers the following questions:
 - GitHub
 - SQL
 - SQLite
-- Power BI or Tableau, planned
+- Tableau
 
 ## Dataset
 
@@ -118,5 +118,5 @@ Only 32.96% of orders were marked COMPLETE. PENDING_PAYMENT represented 22.07% o
 - `visuals/`: Exported project charts.
 - `data/`: Placeholder folders for raw and processed datasets.
 - `sql/`: Reusable SQL scripts for KPI summaries, delivery performance, product profitability, and operations analysis.
-- `dashboard/`: Planned BI dashboard files and screenshots.
+- `dashboard/`: Tableau dashboard screenshot summarizing delivery performance, product profitability, and fulfillment operations.
 - `reports/executive_summary.md`: Business-facing summary of the project findings, recommendations, and conclusions.
